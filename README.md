@@ -40,7 +40,7 @@ http://datascienceassn.org/tags/data-visualization
 
 # Generación de tablas, gráficos y mapas en Tableau
 
-https://www.youtube.com/playlist?list=PL_qx68DwhYA_YyQc2qleHp6nl4K5PB-Pb
+[Tableau Public Resources](https://www.youtube.com/playlist?list=PL_qx68DwhYA_YyQc2qleHp6nl4K5PB-Pb)
 
 [Tableau Public Resources - How to Videos | Sample Data | Live Training](https://public.tableau.com/en-us/s/resources)
 
@@ -48,7 +48,7 @@ https://www.youtube.com/playlist?list=PL_qx68DwhYA_YyQc2qleHp6nl4K5PB-Pb
 
 [Mapping Paths in Tableau 2019.2](https://www.dataplusscience.com/MappingPaths2019.html)
 
-[Mapping Tips for Map Lovers](ttps://www.youtube.com/watch?v=myds2eJ9bUU&list=PL_qx68DwhYA_YyQc2qleHp6nl4K5PB-Pb)
+[Mapping Tips for Map Lovers](https://www.youtube.com/watch?v=myds2eJ9bUU&list=PL_qx68DwhYA_YyQc2qleHp6nl4K5PB-Pb)
 
 [Iván Santiago (2018) Tutorial para hacer mapas usando el programa Tableau. Oficina de Gerencia y Presupuesto. Puerto Rico.](http://gis.otg.pr.gov/downloads/tutorials/tableau/TutorialTableauPublic_MapasEstadisticos12jun2018.pdf)
 
