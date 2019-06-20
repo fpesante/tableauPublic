@@ -89,6 +89,8 @@ Tableau Dashboard Cookbook
 ### Storyboard
 [Longer More Urban](https://public.flourish.studio/story/33445/)
 
+[MOOC - Data Exploration and Storytelling](https://www.youtube.com/playlist?list=PLZa3Xoe2S_1wNE-IA_JwgYBJt6OzJawFe)
+
 Storytelling with Data: A Data Visualization Guide for Business Professionals
 
 Creating Data Stories with Tableau Public
