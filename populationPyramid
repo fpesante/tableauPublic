@@ -1,0 +1,5 @@
+Tableau Population Pyramid
+
+IF [Gender] = 'Female' THEN [Population] END
+
+Reference: https://www.doingdata.org/blog/how-to-create-a-population-pyramid-chart-in-tableau
