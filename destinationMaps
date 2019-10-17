@@ -1,0 +1,20 @@
+TABLEAU DESTINATION MAPS
+https://www.youtube.com/watch?v=ckQNNhCfUW4
+
+Route ID
+[Origin] + "_" + [Dest]
+
+Route Location
+IF [Table Name] = 'bts_routes_2010_201904.csv' THEN [Origin]
+ELSE [Dest]
+END
+
+Route Order
+IF [Table Name] = 'bts_routes_2010_201904.csv' THEN '1'
+ELSE '2'
+END
+
+Join Calculation = IATA
+IF [Table Name] = 'bts_routes_2010_201904.csv' THEN [Origin]
+ELSE [Dest]
+END
